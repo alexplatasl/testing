@@ -220,17 +220,15 @@ Submodels
 ---------
 
 1.  Production with constant returns to scale and
-    technological multiplier. $Y_{it} = \alpha_ {it} L_{it}, \alpha_{it}> 0 $.
+    technological multiplier. ![equation-01](https://latex.codecogs.com/gif.latex?Y_{it}&space;=&space;\alpha_&space;{it}&space;L_{it},&space;\alpha_{it}>&space;0).
 
-2. Desired production level $ Y_ {it} ^ d $ is equal to the expected
-   demand $ D_ 
-   ​    {it} ^ d $.
+2. Desired production level ![eqn-02-a](https://latex.codecogs.com/gif.latex?Y_&space;{it}&space;^&space;d) is equal to the expected
+   demand ![eqn-02-b](https://latex.codecogs.com/gif.latex?D_{it}^d).
 
-3. Desired labor force (employees) $ L_ {it} ^ d $ is
-   $ L_ {it} ^ d = \frac {Y_ {it} ^ d} {\alpha_ {it}} $
+3. Desired labor force (employees) ![eqn-03-a](https://latex.codecogs.com/gif.latex?L_&space;{it}&space;^&space;d) is
+   ![eqn-03-b](https://latex.codecogs.com/gif.latex?L_&space;{it}&space;^&space;d&space;=&space;\frac&space;{Y_&space;{it}&space;^&space;d}&space;{\alpha_&space;{it}}).
 
-4. Current number of employees $ L_ {it} ^ 0 $ is the sum of employees
-   with and without a valid contract.
+4. Current number of employees ![eqn-04](https://latex.codecogs.com/gif.latex?L_&space;{it}&space;^&space;0) is the sum of employees with and without a valid contract.
 
 5. Number of vacancies offered by firms $ V_ {it} $ is
    $ V_ {it} = max (L_ {it} ^ d - L_ {it} ^ 0, 0) $.
