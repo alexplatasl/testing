@@ -254,38 +254,36 @@ Submodels
     of credit ![eqn-12-b](https://latex.codecogs.com/gif.latex?C_k) equivalent to a multiple of its patrimonial base:
     ![eqn-12-c](https://latex.codecogs.com/gif.latex?C_&space;{kt}&space;=&space;\frac&space;{E_&space;{kt}}{v}),
 
-13. where $ 0 <v <1 $ can be interpreted as the capital requirement
-    coefficient. Therefore, the $ v $ reciprocal represents the maximum
+13. where ![eqn-13-a](https://latex.codecogs.com/gif.latex?0&space;<v&space;<1) can be interpreted as the capital requirement
+    coefficient. Therefore, the ![eqn-13-b](https://latex.codecogs.com/gif.latex?v) reciprocal represents the maximum
     allowed leverage by the bank.
 
-14. Bank offers credit $ C_ {k} $, with its respective interest rate
-    $ r_ 
-    ​    {it} ^ k $ and contract for 1 period.
+14. Bank offers credit ![eqn-14-a](https://latex.codecogs.com/gif.latex?$&space;C_&space;{k}&space;$), with its respective interest rate
+    ![eqn-14-b](https://latex.codecogs.com/gif.latex?r_&space;{it}&space;^&space;k) and contract for 1 period.
 
-15. Payment scheme if $ A_ {it + 1}> 0 $: $ B_ {it} (1 + r_ {it} ^ k) $
+15. Payment scheme if ![eqn-15-a](https://latex.codecogs.com/gif.latex?A_&space;{it&space;&plus;&space;1}>&space;0): ![eqn-15-b](https://latex.codecogs.com/gif.latex?B_&space;{it}&space;(1&space;&plus;&space;r_&space;{it}&space;^&space;k))
 
-16. If $ A_ {it + 1} \leq 0 $, bank retrieves $ R_ {it + 1} $
+16. If ![eqn-16-a](https://latex.codecogs.com/gif.latex?A_&space;{it&space;&plus;&space;1}&space;\leq&space;0), bank retrieves ![eqn-16-b](https://latex.codecogs.com/gif.latex?R_&space;{it&space;&plus;&space;1}).
 
-17. Contractual interest rate offered by the bank $ k $ to the firm
-    $ i $ is determined as a margin on a rate policy established by
-    Central Monetary Authority $ \bar {r} $:
-    $ R_ {it} ^ k = \bar {r} (1+ \phi_ {kt} \mu (\ell_ {it})) $.
+17. Contractual interest rate offered by the bank ![eqn-17-a](https://latex.codecogs.com/gif.latex?k) to the firm
+    ![eqn-17-b](https://latex.codecogs.com/gif.latex?i) is determined as a margin on a rate policy established by
+    Central Monetary Authority ![eqn-17-c](https://latex.codecogs.com/gif.latex?\bar{r}):
+    ![eqn-17-d](https://latex.codecogs.com/gif.latex?R_{it}^k=\bar{r}(1&plus;\phi_{kt}\mu(\ell_{it}))).
 
 18. Margin is a function of the specificity of the bank as possible
     variations in its operating costs and captured by the uniform random
-    variable $ \phi_ {kt} $ in the interval $ (0, h_\phi) $.
+    variable ![eqn-18-a](https://latex.codecogs.com/gif.latex?\phi_{kt}) in the interval ![eqn-18-b](https://latex.codecogs.com/gif.latex?(0,h_\phi)).
 
 19. Margin is also a function of the borrower’s financial fragility,
-    captured by the term $ \mu (\ell_ {it}) $, $ \mu ^ {'}> 0 $. Where
-    $ \ell_ {it} = \frac 
-    ​    {B_ {it}} {A_ {it}} $ is the leverage of borrower.
+    captured by the term ![eqn-19-a](https://latex.codecogs.com/gif.latex?\mu&space;(\ell_&space;{it})), ![eqn-19-b](https://latex.codecogs.com/gif.latex?\mu&space;^&space;{'}>&space;0). Where
+    ![eqn-19-c](https://latex.codecogs.com/gif.latex?\ell_&space;{it}&space;=&space;\frac&space;{B_&space;{it}}&space;{A_&space;{it}}) is the leverage of borrower.
 
 20. Demand for credit is divisible, that is, if a single bank is not
     able to satisfy the requested credit, it can request in the
-    remaining $ H-1 $ randomly selected banks.
+    remaining ![eqn-20](https://latex.codecogs.com/gif.latex?H-1) randomly selected banks.
 
-21. Each firm has an inventory of unsold goods $ S_ {it} $, where excess
-    supply $ S_ {it}> 0 $ or demand $ S_ {it} = 0 $ is reflected.
+21. Each firm has an inventory of unsold goods ![eqn-21-a](https://latex.codecogs.com/gif.latex?S_&space;{it}), where excess
+    supply ![eqn-21-b](https://latex.codecogs.com/gif.latex?S_&space;{it}>&space;0) or demand ![eqn-21-c](https://latex.codecogs.com/gif.latex?S_&space;{it}&space;=&space;0) is reflected.
 
 22. Deviation of the individual price from the average market price
     during the previous period is represented as:
