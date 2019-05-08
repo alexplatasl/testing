@@ -287,9 +287,9 @@ Submodels
 
 22. Deviation of the individual price from the average market price
     during the previous period is represented as:
-    $ P_ {it-1} - P_ {t-1} $
+    ![eqn-22](https://latex.codecogs.com/gif.latex?P_&space;{it-1}&space;-&space;P_&space;{t-1})
 
-23. If deviation is positive $ P_ {it-1}> P_ {t-1} $, firm recognizes
+23. If deviation is positive ![eqn-23](https://latex.codecogs.com/gif.latex?P_&space;{it-1}>&space;P_&space;{t-1}), firm recognizes
     that its price is high compared to its competitors, and is induced
     to decrease the price or quantity to prevent a migration massive in
     favor of its rivals.
@@ -297,11 +297,11 @@ Submodels
 24. Vice versa.
 
 25. In case of adjusting price to downside, this is bounded below
-    $ P_ {it} ^l $ to not be less than your average costs
-    $$P_ {it} ^ l = \frac {W_ {it} + \sum\limits_k r_ {kit} B_ {kit}} {Y_ {it}}$$.
+    ![eqn-25-a](https://latex.codecogs.com/gif.latex?P_&space;{it}&space;^l) to not be less than your average costs
+    ![eqn-25-b](https://latex.codecogs.com/gif.latex?$$P_&space;{it}&space;^&space;l&space;=&space;\frac&space;{W_&space;{it}&space;&plus;&space;\sum\limits_k&space;r_&space;{kit}&space;B_&space;{kit}}&space;{Y_&space;{it}}$$).
 
-26. Aggregate price $ P_t $ is common knowledge (global variable), while
-    inventory $ S_ {it} $ and individual price $ P_ {it} $ private
+26. Aggregate price ![eqn-26-a](https://latex.codecogs.com/gif.latex?P_t) is common knowledge (global variable), while
+    inventory ![eqn-26-b](https://latex.codecogs.com/gif.latex?S_&space;{it}) and individual price ![eqn-26-c](https://latex.codecogs.com/gif.latex?P_&space;{it}) private
     knowledge child (local variables).
 
 27. Only the price or quantity to be produced can be modified. In the
