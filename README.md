@@ -325,9 +325,7 @@ Submodels
     case of price, we have the following rule:
     
     ![eqn-27-a](https://github.com/alexplatasl/testing/blob/master/eqn-27.gif)
-    
-    $$\begin{aligned} P_{it}^s= ​ \begin{cases} ​ \text{max}[P_{it}^l, P_{it-1}(1+\eta_{it})] & \text{if $S_{it-1}=0$ and $P_{it-1}<P$ }\\ ​ \text{max}[P_{it}^l, P_{it-1}(1-\eta_{it})] & \text{if $S_{it-1}>0$ and $P_{it-1}\geq ​ P$} ​ \end{cases}\end{aligned}$$
-    
+        
 28. ![eqn-28-a](https://latex.codecogs.com/gif.latex?\eta_&space;{it}) is a randomized term uniformly distributed in the
     range ![eqn-28-b](https://latex.codecogs.com/gif.latex?(0,&space;h_&space;\eta)) and ![eqn-28-c](https://latex.codecogs.com/gif.latex?P_&space;{it}&space;^&space;l) is the minimum price at which firm
     ![eqn-28-d](https://latex.codecogs.com/gif.latex?i) can solve its minimal costs at time ![eqn-28-e](https://latex.codecogs.com/gif.latex?t)
@@ -335,13 +333,8 @@ Submodels
 
 29. In the case of quantities, these are adjusted adaptively according
     to the following rule:
-
-    $$\begin{aligned}
-    D_{it}^e=
-    ​    \begin{cases}
-    ​        Y_{it-1}(1+\rho_{it}) & \text{if $S_{it-1}=0$ and $P_{it-1}\geq P$} \\
-    ​        Y_{it-1}(1-\rho_{it}) & \text{if $S_{it-1}>0$ and $P_{it-1}< P$}
-    ​    \end{cases}\end{aligned}$$
+    
+    ![eqn-29-a](https://github.com/alexplatasl/testing/blob/master/eqn-29.gif.gif)
 
 30. ![eqn-30-a](https://latex.codecogs.com/gif.latex?\rho_&space;{it}) is a random term uniform distributed and bounded
     between ![eqn-30-b](https://latex.codecogs.com/gif.latex?(0,&space;h_&space;\rho)).
