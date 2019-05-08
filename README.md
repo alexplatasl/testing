@@ -306,8 +306,7 @@ Submodels
 
 27. Only the price or quantity to be produced can be modified. In the
     case of price, we have the following rule:
-    
-    ![eqn-27](http://bit.ly/2vJszbh)
+    $$\begin{aligned} P_{it}^s= ​ \begin{cases} ​ \text{max}[P_{it}^l, P_{it-1}(1+\eta_{it})] & \text{if $S_{it-1}=0$ and $P_{it-1}<P$ }\\ ​ \text{max}[P_{it}^l, P_{it-1}(1-\eta_{it})] & \text{if $S_{it-1}>0$ and $P_{it-1}\geq ​ P$} ​ \end{cases}\end{aligned}$$
     
 28. ![eqn-28-a](https://latex.codecogs.com/gif.latex?\eta_&space;{it}) is a randomized term uniformly distributed in the
     range ![eqn-28-b](https://latex.codecogs.com/gif.latex?(0,&space;h_&space;\eta)) and ![eqn-28-c](https://latex.codecogs.com/gif.latex?P_&space;{it}&space;^&space;l) is the minimum price at which firm
