@@ -219,18 +219,21 @@ No input data were needed to represent process.
 Submodels
 ---------
 
-1.  Production with constant returns to scale and
-    technological multiplier. ![equation-01](https://latex.codecogs.com/gif.latex?Y_{it}&space;=&space;\alpha_&space;{it}&space;L_{it},&space;\alpha_{it}>&space;0).
+1.  Production with constant returns to scale and technological multiplier. 
+    ![equation-01](https://latex.codecogs.com/gif.latex?Y_{it}&space;=&space;\alpha_&space;{it}&space;L_{it},&space;\alpha_{it}>&space;0).
 
 2. Desired production level ![eqn-02-a](https://latex.codecogs.com/gif.latex?Y_&space;{it}&space;^&space;d) is equal to the expected
    demand ![eqn-02-b](https://latex.codecogs.com/gif.latex?D_{it}^d).
 
 3. Desired labor force (employees) ![eqn-03-a](https://latex.codecogs.com/gif.latex?L_&space;{it}&space;^&space;d) is
+
    ![eqn-03-b](https://latex.codecogs.com/gif.latex?L_&space;{it}&space;^&space;d&space;=&space;\frac&space;{Y_&space;{it}&space;^&space;d}&space;{\alpha_&space;{it}}).
 
 4. Current number of employees ![eqn-04](https://latex.codecogs.com/gif.latex?L_&space;{it}&space;^&space;0) is the sum of employees with and without a valid contract.
 
-5. Number of vacancies offered by firms ![eqn-05-a](https://latex.codecogs.com/gif.latex?V_&space;{it}) is ![eqn-05-b](https://latex.codecogs.com/gif.latex?V_&space;{it}&space;=&space;max&space;(L_&space;{it}&space;^&space;d&space;-&space;L_&space;{it}&space;^&space;0,&space;0)).
+5. Number of vacancies offered by firms ![eqn-05-a](https://latex.codecogs.com/gif.latex?V_&space;{it}) is 
+
+![eqn-05-b](https://latex.codecogs.com/gif.latex?V_&space;{it}&space;=&space;max&space;(L_&space;{it}&space;^&space;d&space;-&space;L_&space;{it}&space;^&space;0,&space;0)).
 
 6. ![eqn-06](https://latex.codecogs.com/gif.latex?\hat&space;{w_t}) is the minimum wage determined by law.
 
@@ -246,7 +249,7 @@ Submodels
 10. At the beginning of each period, a firm has a net value ![eqn-10-a](https://latex.codecogs.com/gif.latex?A_&space;{it}).
     If total payroll to be paid ![eqn-10-b](https://latex.codecogs.com/gif.latex?W_&space;{it}) is greater than ![eqn-10-c](https://latex.codecogs.com/gif.latex?A_&space;{it}),
     firm asks for a ![eqn-10-d](https://latex.codecogs.com/gif.latex?B_&space;{it}) loan:
-    ![eqn-10-e]
+    ![eqn-10-e](https://latex.codecogs.com/gif.latex?B_&space;{it}&space;=&space;max&space;(W_&space;{it}&space;-&space;A_&space;{it},&space;0&space;))
 
 11. For the loan search costs, it must be met that ![eqn-11](https://latex.codecogs.com/gif.latex?H&space;<K)
 
