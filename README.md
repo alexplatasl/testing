@@ -323,23 +323,21 @@ Submodels
     ​        Y_{it-1}(1-\rho_{it}) & \text{if $S_{it-1}>0$ and $P_{it-1}< P$}
     ​    \end{cases}\end{aligned}$$
 
-30. $\rho_ {it} $ is a random term uniform distributed and bounded
-    between $ (0, h_ 
-    ​    \rho) $.
+30. ![eqn-30-a](https://latex.codecogs.com/gif.latex?\rho_&space;{it}) is a random term uniform distributed and bounded
+    between ![eqn-30-b](https://latex.codecogs.com/gif.latex?(0,&space;h_&space;\rho)).
 
 31. Total income of households (workers/consumers) is the sum of the
     payroll paid to the workers (each household represents a worker) in
-    $ t $ and the dividends distributed to the shareholders in $ t-1 $.
+    ![eqn-31-a](https://latex.codecogs.com/gif.latex?t) and the dividends distributed to the shareholders in ![eqn-31-b](https://latex.codecogs.com/gif.latex?t-1).
 
 32. Wealth is defined as the sum of labor income plus the sum of all
-    savings $SA$ of the past.
+    savings ![eqn-32](https://latex.codecogs.com/gif.latex?SA) of the past.
 
-33. Marginal propensity to consume $c$ is a decreasing function of the
+33. Marginal propensity to consume ![eqn-33-a](https://latex.codecogs.com/gif.latex?c) is a decreasing function of the
     worker’s total wealth (higher the wealth lower the proportion spent
     on consumption) defined as:
 
-    $$c_ {jt} = \frac {1} {1+ \left [\text {tanh} \left (\frac {SA_ {jt}} {SAt} \right) 
-    ​    \right] ^ \beta}$$
+    ![eqn-33-b](https://latex.codecogs.com/gif.latex?$$c_&space;{jt}&space;=&space;\frac&space;{1}&space;{1&plus;&space;\left&space;[\text&space;{tanh}&space;\left&space;(\frac&space;{SA_&space;{jt}}&space;{SAt}&space;\right)\right]&space;^&space;\beta}$$)
 
 34. $ SA_t $ is the average savings. $ SA_ {jt} $ is the real saving of
     the $ j $ -th consumer.
