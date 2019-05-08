@@ -269,13 +269,18 @@ Submodels
 14. Bank offers credit ![eqn-14-a](https://latex.codecogs.com/gif.latex?$&space;C_&space;{k}&space;$), with its respective interest rate
     ![eqn-14-b](https://latex.codecogs.com/gif.latex?r_&space;{it}&space;^&space;k) and contract for 1 period.
 
-15. Payment scheme if ![eqn-15-a](https://latex.codecogs.com/gif.latex?A_&space;{it&space;&plus;&space;1}>&space;0): ![eqn-15-b](https://latex.codecogs.com/gif.latex?B_&space;{it}&space;(1&space;&plus;&space;r_&space;{it}&space;^&space;k))
+15. Payment scheme if ![eqn-15-a](https://latex.codecogs.com/gif.latex?A_&space;{it&space;&plus;&space;1}>&space;0): 
 
-16. If ![eqn-16-a](https://latex.codecogs.com/gif.latex?A_&space;{it&space;&plus;&space;1}&space;\leq&space;0), bank retrieves ![eqn-16-b](https://latex.codecogs.com/gif.latex?R_&space;{it&space;&plus;&space;1}).
+    ![eqn-15-b](https://latex.codecogs.com/gif.latex?B_&space;{it}&space;(1&space;&plus;&space;r_&space;{it}&space;^&space;k))
+
+16. If ![eqn-16-a](https://latex.codecogs.com/gif.latex?A_&space;{it&space;&plus;&space;1}&space;\leq&space;0), bank retrieves 
+
+    ![eqn-16-b](https://latex.codecogs.com/gif.latex?R_&space;{it&space;&plus;&space;1}).
 
 17. Contractual interest rate offered by the bank ![eqn-17-a](https://latex.codecogs.com/gif.latex?k) to the firm
     ![eqn-17-b](https://latex.codecogs.com/gif.latex?i) is determined as a margin on a rate policy established by
     Central Monetary Authority ![eqn-17-c](https://latex.codecogs.com/gif.latex?\bar{r}):
+    
     ![eqn-17-d](https://latex.codecogs.com/gif.latex?R_{it}^k=\bar{r}(1&plus;\phi_{kt}\mu(\ell_{it}))).
 
 18. Margin is a function of the specificity of the bank as possible
@@ -284,7 +289,10 @@ Submodels
 
 19. Margin is also a function of the borrower’s financial fragility,
     captured by the term ![eqn-19-a](https://latex.codecogs.com/gif.latex?\mu&space;(\ell_&space;{it})), ![eqn-19-b](https://latex.codecogs.com/gif.latex?\mu&space;^&space;{'}>&space;0). Where
-    ![eqn-19-c](https://latex.codecogs.com/gif.latex?\ell_&space;{it}&space;=&space;\frac&space;{B_&space;{it}}&space;{A_&space;{it}}) is the leverage of borrower.
+    
+    ![eqn-19-c](https://latex.codecogs.com/gif.latex?\ell_&space;{it}&space;=&space;\frac&space;{B_&space;{it}}&space;{A_&space;{it}}) 
+    
+    is the leverage of borrower.
 
 20. Demand for credit is divisible, that is, if a single bank is not
     able to satisfy the requested credit, it can request in the
@@ -295,6 +303,7 @@ Submodels
 
 22. Deviation of the individual price from the average market price
     during the previous period is represented as:
+    
     ![eqn-22](https://latex.codecogs.com/gif.latex?P_&space;{it-1}&space;-&space;P_&space;{t-1})
 
 23. If deviation is positive ![eqn-23](https://latex.codecogs.com/gif.latex?P_&space;{it-1}>&space;P_&space;{t-1}), firm recognizes
