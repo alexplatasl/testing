@@ -307,7 +307,7 @@ Submodels
 27. Only the price or quantity to be produced can be modified. In the
     case of price, we have the following rule:
     
-    ![eqn-27](http://www.sciweavers.org/tex2img.php?eq=%24%24%5Cbegin%7Baligned%7D%20P_%7Bit%7D%5Es%3D%20%E2%80%8B%20%5Cbegin%7Bcases%7D%20%E2%80%8B%20%5Ctext%7Bmax%7D%5BP_%7Bit%7D%5El%2C%20P_%7Bit-1%7D%281%2B%5Ceta_%7Bit%7D%29%5D%20%26%20%5Ctext%7Bif%20%24S_%7Bit-1%7D%3D0%24%20and%20%24P_%7Bit-1%7D%3CP%24%20%7D%5C%5C%20%E2%80%8B%20%5Ctext%7Bmax%7D%5BP_%7Bit%7D%5El%2C%20P_%7Bit-1%7D%281-%5Ceta_%7Bit%7D%29%5D%20%26%20%5Ctext%7Bif%20%24S_%7Bit-1%7D%3E0%24%20and%20%24P_%7Bit-1%7D%5Cgeq%20%E2%80%8B%20P%24%7D%20%E2%80%8B%20%5Cend%7Bcases%7D%5Cend%7Baligned%7D%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0)
+    ![eqn-27](http://bit.ly/2vJszbh)
     
 28. ![eqn-28-a](https://latex.codecogs.com/gif.latex?\eta_&space;{it}) is a randomized term uniformly distributed in the
     range ![eqn-28-b](https://latex.codecogs.com/gif.latex?(0,&space;h_&space;\eta)) and ![eqn-28-c](https://latex.codecogs.com/gif.latex?P_&space;{it}&space;^&space;l) is the minimum price at which firm
