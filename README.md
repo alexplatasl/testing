@@ -339,29 +339,29 @@ Submodels
 
     ![eqn-33-b](https://latex.codecogs.com/gif.latex?$$c_&space;{jt}&space;=&space;\frac&space;{1}&space;{1&plus;&space;\left&space;[\text&space;{tanh}&space;\left&space;(\frac&space;{SA_&space;{jt}}&space;{SAt}&space;\right)\right]&space;^&space;\beta}$$)
 
-34. $ SA_t $ is the average savings. $ SA_ {jt} $ is the real saving of
-    the $ j $ -th consumer.
+34. ![eqn-34-a](https://latex.codecogs.com/gif.latex?SA_t) is the average savings. ![eqn-34-b](https://latex.codecogs.com/gif.latex?SA_&space;{jt}) is the real saving of
+    the ![eqn-34-a](https://latex.codecogs.com/gif.latex?j) -th consumer.
 
-35. The revenue $ R_ {it} $ of a firm after the goods market closes is
+35. The revenue ![eqn-35-a](https://latex.codecogs.com/gif.latex?R_&space;{it}) of a firm after the goods market closes is
     equal to:
 
-    $$R_ {it} = P_ {it} Y_ {it}$$
+    ![eqn-35-b](https://latex.codecogs.com/gif.latex?$$R_&space;{it}&space;=&space;P_&space;{it}&space;Y_&space;{it}$$)
 
-36. At the end of $ t $ period, each firm computes benefits
-    $ \pi_ {it-1} $ .
+36. At the end of ![eqn-36-a](https://latex.codecogs.com/gif.latex?t) period, each firm computes benefits
+    ![eqn-36-b](https://latex.codecogs.com/gif.latex?\pi_&space;{it-1}).
 
 37. If the benefits are positive, the shareholders of firms receive
     dividends:
 
-    $Div_ {it-1} = \delta \pi_ {it-1} $
+    ![eqn-37-a](https://latex.codecogs.com/gif.latex?Div_&space;{it-1}&space;=&space;\delta&space;\pi_&space;{it-1}).
 
 38. Residual, after discounting dividends, is added to net value
-    inherited from previous period, $A_{it-1}$. Therefore, net worth of
-    a profitable firm in $t$ is:
+    inherited from previous period, ![eqn-38-a](https://latex.codecogs.com/gif.latex?A_{it-1}). Therefore, net worth of
+    a profitable firm in ![eqn-38-a](https://latex.codecogs.com/gif.latex?t) is:
 
-    $A_{it} = A_{it-1}+\pi_{it-1} -Div_{it-1} \equiv A_{it-1}+ (1-\delta)\pi_{it-1} $
+    ![eqn-38-b](https://latex.codecogs.com/gif.latex?A_{it}&space;=&space;A_{it-1}&plus;\pi_{it-1}&space;-Div_{it-1}&space;\equiv&space;A_{it-1}&plus;&space;(1-\delta)\pi_{it-1}).
 
-39. If firm, say $f$, accumulates a net value $ A_ {it} <0 $
+39. If firm, say ![eqn-39-a](https://latex.codecogs.com/gif.latex?f), accumulates a net value ![eqn-39-b](https://latex.codecogs.com/gif.latex?A_&space;{it}&space;<0)
     goes bankrupt.
 
 40. Firm that goes bankrupt is replaced with another one of smaller size
@@ -372,9 +372,9 @@ Submodels
 
 42. Bank’s capital
 
-    $E_{kt}=E_{kt-1} + \sum \limits_ {i \in \Theta} r_ {kit-1} B_ {kit-1} -BD_{kt-1}$
+    ![eqn-42-a](https://latex.codecogs.com/gif.latex?E_{kt}=E_{kt-1}&space;&plus;&space;\sum&space;\limits_&space;{i&space;\in&space;\Theta}&space;r_&space;{kit-1}&space;B_&space;{kit-1}&space;-BD_{kt-1}).
 
-43. $ \Theta $ is the bank’s loan portfolio, $ BD_{kt-1} $ represents
+43. ![eqn-43-a](https://latex.codecogs.com/gif.latex?\Theta) is the bank’s loan portfolio, ![eqn-43-b](https://latex.codecogs.com/gif.latex?BD_{kt-1}) represents
     the portfolio of firms that go bankrupt.
 
 44. If a bank goes bankrupt, it is replaced with a copy of the
