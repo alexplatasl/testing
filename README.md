@@ -306,7 +306,7 @@ Submodels
 
 27. Only the price or quantity to be produced can be modified. In the
     case of price, we have the following rule:
-
+    
     $$\begin{aligned}
     P_{it}^s=
     ​    \begin{cases}
